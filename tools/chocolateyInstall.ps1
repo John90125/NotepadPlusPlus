@@ -1,6 +1,6 @@
  $packageName = 'NotePadPlus2' 
  $installerType = 'exe'
- $url = 'http://192.168.1.66/chocolatey'
+ $url = 'http://denfamebld:8081/nexus/content/repositories/ADC_TEST/notepad/notepad/1.0/notepad-1.0.exe'
  $url64 = $url
  $silentArgs = '/S'
  $validExitCodes = @(0)
