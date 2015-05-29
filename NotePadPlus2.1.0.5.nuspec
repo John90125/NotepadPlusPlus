@@ -7,8 +7,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>My package description.</description>
     </metadata>
-    <files>
-        <file src="content\NotePadPlus2Install.exe" target="content\NotePadPlus2Install.exe" />
+    <files>       
         <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
     </files>
 </package>
